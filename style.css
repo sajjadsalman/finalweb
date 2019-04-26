@@ -5,7 +5,8 @@
 }
 
 html {
-    background-image: url(30193490011_a1b9ada0e7_h.jpg);
+    /*background-image: url(30193490011_a1b9ada0e7_h.jpg);*/
+    background-color: white;
     background-size: cover;
     background-repeat: no-repeat;
     background-color: #fff;
